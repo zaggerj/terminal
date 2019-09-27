@@ -1,7 +1,5 @@
-# 实践中学习vim之按键序列映射  
-
-    2014年03月04日 19:52:26 smstong 阅读数 7498更多,  
-[本文链接：](https://blog.csdn.net/smstong/article/details/20475223)
+# 实践中学习vim之按键序列映射
+2014年03月04日 19:52:26 smstong 阅读数 7498更多,[本文链接](https://blog.csdn.net/smstong/article/details/20475223)
 ### 【术语说明】
 
     本文对于vim中所有能引起动作的字符序列统称为“命令”，这不仅仅包含以:开头的命令行模式下的命令，也包括其他模式下的按键序列。
