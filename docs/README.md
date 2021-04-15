@@ -13,3 +13,10 @@
 3. **iterm2**
     - itemr2 主题文件备份
     - fonts 文件备份
+4. backups 最新的配置文件备份 （2021-04-15）
+	- nvim neovim文件夹备份
+	- zsh 文件夹备份
+	- init.vim neovim配置文件
+	- config.yml lazygit配置文件
+	- rc.conf ranger配置文件
+	- scope.sh, commands.py, commands_full.py
